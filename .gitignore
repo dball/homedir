@@ -9,9 +9,11 @@
 /.bundle
 /.emacs.d/*
 !/.emacs.d/init.el
+/.ido.last
 /.lein
 /.m2
 /.mysql_history
+/.recentf
 /.ssh
 /.viminfo
 /Applications
