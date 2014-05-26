@@ -7,6 +7,7 @@
 /.Trash
 /.bash_history
 /.bundle
+/.cache
 /.emacs.d/*
 !/.emacs.d/init.el
 /.ido.last
