@@ -1,5 +1,5 @@
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH:~/bin
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/opt/mysql55/bin:$PATH:~/bin
+source /usr/local/opt/chruby/share/chruby/chruby.sh
 
 alias dbreload='DB_ENCRYPTION_KEY=hungry2601 rake db:reload'
 alias vim=/usr/local/bin/vim
