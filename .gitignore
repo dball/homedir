@@ -10,11 +10,13 @@
 /.cache
 /.emacs.d/*
 !/.emacs.d/init.el
+/.gem
 /.ido.last
 /.lein
 /.m2
 /.mysql_history
 /.recentf
+/.rubies
 /.ssh
 /.viminfo
 /Applications
