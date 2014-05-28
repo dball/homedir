@@ -1,11 +1,9 @@
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/opt/mysql55/bin:$PATH:~/bin
 source /usr/local/opt/chruby/share/chruby/chruby.sh
 
-alias dbreload='DB_ENCRYPTION_KEY=hungry2601 rake db:reload'
 alias vim=/usr/local/bin/vim
 export EDITOR=/usr/local/bin/vim
 export TERM=xterm-256color
-export LS_PAGERDUTY_TEST_SERVICE_KEY=f0de1cf02d224595a101c9918bdf4358
 
 # http://vvv.tobiassjosten.net/bash/dynamic-prompt-with-git-and-ansi-colors/
 # Configure colors, if available.
