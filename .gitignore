@@ -20,6 +20,7 @@
 /.rubies
 /.ssh
 /.viminfo
+/.vim/.netrwhist
 /Applications
 /Desktop
 /Documents
