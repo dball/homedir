@@ -10,6 +10,7 @@
 		      starter-kit-lisp
 		      starter-kit-bindings
 		      starter-kit-eshell
+                      clj-refactor
 		      clojure-mode
 		      clojure-test-mode
                       solarized-theme
