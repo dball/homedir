@@ -12,12 +12,14 @@
 /.emacs.d/*
 !/.emacs.d/init.el
 /.gem
+/.heroku
 /.ido.last
 /.lein
 /.lesshst
 /.ls_ops_api_token
 /.m2
 /.mysql_history
+/.netrc
 /.recentf
 /.rubies
 /.ssh
