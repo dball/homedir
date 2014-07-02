@@ -5,6 +5,8 @@ alias vim=/usr/local/bin/vim
 export EDITOR=/usr/local/bin/vim
 export TERM=xterm-256color
 
+export LEIN_JVM_OPTS="-Dapple.awt.UIElement=true"
+
 # http://vvv.tobiassjosten.net/bash/dynamic-prompt-with-git-and-ansi-colors/
 # Configure colors, if available.
 if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
