@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/donaldball/src/ls-mail/lib/ls/mail/client'
-let g:netrw_dirhist_2='/Users/donaldball/src/percona-server-5.5.37-35.0/BUILD'
-let g:netrw_dirhist_3='/Users/donaldball/src/powermta-importer/lib/ls-powermta'
-let g:netrw_dirhist_4='/Users/donaldball/src/dndcombat/app/views/layouts'
