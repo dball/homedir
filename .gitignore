@@ -21,9 +21,11 @@
 /.mysql_history
 /.netrc
 /.recentf
+/.rediscli_history
 /.rubies
 /.ssh
 /.subversion
+/.vegas
 /.viminfo
 /.vim/.netrwhist
 /Applications
