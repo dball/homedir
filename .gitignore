@@ -12,6 +12,7 @@
 /.emacs.d/*
 !/.emacs.d/init.el
 /.gem
+/.ghc
 /.heroku
 /.ido.last
 /.lein
