@@ -29,14 +29,14 @@
 (add-hook 'clojure-mode-hook 'whitespace-mode)
 
 (add-hook 'cider-repl-mode-hook 'paredit-mode)
-(setq nrepl-hide-special-buffers t)
-(setq cider-show-error-buffer 'except-in-repl)
-(setq cider-repl-print-length 100)
+
+(setq nrepl-log-messages t)
 
 (require 'clj-refactor)
 (add-hook 'clojure-mode-hook (lambda ()
                                (clj-refactor-mode 1)
                                (cljr-add-keybindings-with-prefix "C-c C-m")))
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
