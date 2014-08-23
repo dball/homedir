@@ -16,6 +16,7 @@
 /.gem
 /.ghc
 /.heroku
+/.htoprc
 /.ido.last
 /.lein
 /.lesshst
