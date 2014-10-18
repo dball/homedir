@@ -15,6 +15,7 @@
 !/.emacs.d/vendor/*
 /.gem
 /.ghc
+/.gradle
 /.heroku
 /.htoprc
 /.ido.last
@@ -32,6 +33,7 @@
 /.vegas
 /.viminfo
 /.vim/.netrwhist
+/.zinc
 /Applications
 /Desktop
 /Documents
