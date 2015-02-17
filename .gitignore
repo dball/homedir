@@ -25,14 +25,17 @@
 /.m2
 /.mysql_history
 /.netrc
+/.pry_history
 /.recentf
 /.rediscli_history
+/.rnd
 /.rubies
 /.ssh
 /.subversion
 /.vegas
 /.viminfo
 /.vim/.netrwhist
+/.wireshark
 /.zinc
 /Applications
 /Desktop
@@ -44,3 +47,4 @@
 /Pictures
 /Public
 /src
+/tmp
