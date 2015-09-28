@@ -19,6 +19,7 @@
 /.heroku
 /.htoprc
 /.ido.last
+/.idris
 /.lein
 /.lesshst
 /.ls_ops_api_token
