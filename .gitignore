@@ -6,6 +6,8 @@
 /.CFUserTextEncoding
 /.Trash
 /.bash_history
+/.boot
+/.boot2docker
 /.bundle
 /.cache
 /.cups
