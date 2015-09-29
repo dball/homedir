@@ -17,6 +17,7 @@
 !/.emacs.d/user.el
 !/.emacs.d/vendor/*
 /.gem
+/.gervill
 /.ghc
 /.gradle
 /.heroku
