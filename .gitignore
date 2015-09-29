@@ -9,6 +9,7 @@
 /.boot
 /.boot2docker
 /.bundle
+/.cabal
 /.cache
 /.cups
 /.emacs.d/*
