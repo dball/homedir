@@ -11,6 +11,7 @@
 /.bundle
 /.cabal
 /.cache
+/.cargo
 /.cups
 /.emacs.d/*
 !/.emacs.d/init.el
