@@ -39,6 +39,7 @@
 /.rubies
 /.ssh
 /.subversion
+/.vagrant.d
 /.vegas
 /.viminfo
 /.vim/.netrwhist
@@ -53,5 +54,6 @@
 /Music
 /Pictures
 /Public
+/VirtualBox VMs
 /src
 /tmp
