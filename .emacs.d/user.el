@@ -41,6 +41,7 @@
 (remove-hook 'text-mode-hook 'turn-on-flyspell)
 
 (load "~/.emacs.d/vendor/clojure")
+(load "~/.emacs.d/vendor/haskell")
 
 ;; hippie expand - don't try to complete with file names
 (setq hippie-expand-try-functions-list (delete 'try-complete-file-name hippie-expand-try-functions-list))
